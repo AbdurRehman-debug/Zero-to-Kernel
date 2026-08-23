@@ -20,25 +20,7 @@
 
 ---
 
-### 🔨 What I Built or Practiced
 
-
----
-
-### 📊 Result or Measurement
-
-
----
-
-### ❓ Still Confused
-
-
----
-
-### 📅 Tomorrow
-
-
----
 
 
 ## Week [XX] Summary
