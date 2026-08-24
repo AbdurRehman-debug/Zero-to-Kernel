@@ -52,7 +52,7 @@ zero-to-kernel/
 ├── README.md                    
 │
 ├── daily-log/                   ← written every single day, no exceptions
-│   ├── README.md                ← explains the log format
+│   ├── README.md                
 │   ├── week-01.md
 │   └── ...
 │
@@ -179,7 +179,7 @@ Most engineers only ever see the Python. I am building the bottom layers.
 
 *Started August 22 2026 . Updated daily.*
 
-*Streak: 1*
+*Streak: 2*
 
 > "The engineers who reach this level are not the smartest.
 > They are the ones who showed up every day for two years."

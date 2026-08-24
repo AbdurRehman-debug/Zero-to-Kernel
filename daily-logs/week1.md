@@ -101,6 +101,32 @@ A central theme of the lecture was  the decomposition of a matrix
 ---
 
 
+## Day 2 — Monday, August 24, 2026
+
+
+
+
+
+### 📖 What I Studied
+
+studied the following topics:
+```
+- Vectors and linear combinations specfically from professor Gilbert Strang's Book "Introduction to Linear Algebra" 5th edition, Chapter 1: Vectors and Linear Combinations Topic(1.1) and solved problem set 1.1
+```
+
+---
+
+### 💡 What I Understood
+
+linear combinations,dependence and independence of vectors, span of a set of vectors, and the geometric interpretation of these concepts. I also learned how to determine if a set of vectors is linearly independent or dependent by using the concept of linear combinations.
+
+
+
+
+---
+
+
+
 
 ## Week 1 Summary:
 
