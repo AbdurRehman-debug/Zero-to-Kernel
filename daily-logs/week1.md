@@ -127,6 +127,42 @@ linear combinations,dependence and independence of vectors, span of a set of vec
 
 
 
+## Day 3 — Saturday, 29 August 2026
+
+
+
+---
+
+### 📖 What I Studied
+
+```
+Linear combinations, span and basis vectors from 3Blue 1 Brown's video "Linear Combinations, Span, and Basis Vectors" 
+ i watched till 29:20 of MIT 18.06sc Elimination With Matrices Lecture 2: Elimination with Matrices 
+```
+
+
+---
+
+### 💡 What I Understood
+
+- From the 3Blue 1 Brown's video, I understood that linear combinations involve combining vectors using scalar multiplication and addition. The span of a set of vectors is the collection of all possible linear combinations of those vectors, which can form a subspace in the vector space. Basis vectors are a set of linearly independent vectors that span a vector space, meaning they can be used to represent any vector in that space through linear combinations. changing the basis can change the whole corrdinate sytem and the representation of vectors within that space.
+also i understood about linear dependence and independence of vectors, which is crucial for determining the span and basis of a vector space. A set of vectors is linearly independent if no vector in the set can be expressed as a linear combination of the others; otherwise, they are linearly dependent. This understanding is fundamental in linear algebra and has applications in various fields, including computer graphics, data analysis, and machine learning.  ``` two dependent  vectors form a line and add zero information, 2 independent vectors form a plane, and three independent vectors form2 the entire 3D space.```
+
+
+
+- From the MIT lecture, I learned about the process of elimination with matrices, which is a fundamental technique in solving systems of linear equations.and specificaly multiplication fo a matrix with a column vector leads to a linear combination of the columns of the matrix and mutlitplication of a matrix with a row vector leads to a linear combination of the rows of the matrix. and specifically there was guass elimination whihc is a systematic method mentioned in which we eliminate the entries below pivots(leading entries) to transform the matrix into an upper triangular form, making it easier to solve the system of equations. This process involves a series of row operations, including swapping rows, multiplying a row by a non-zero scalar, and adding or subtracting multiples of one row from another. The goal is to simplify the matrix while preserving the solutions to the system of equations. Once in upper triangular form, back substitution can be used to find the values of the variables.![alt text](images/linear%20combination%20of%20rows%20and%20columns.png)
+
+
+```but the improtant thing  i learnt is the elementary row operations we typically perform are actually matrx mutliplicaton underneath and this cleared abstrcation for me and i understood that the elementary row operations can be represented as multiplication by an elementary matrix, which is a special type of matrix that performs a specific row operation when multiplied with another matrix. ```
+
+
+![alt text](images/intituion1.png)
+![alt text](images/page2%20intition.png)
+
+
+    
+---
+
 
 ## Week 1 Summary:
 
