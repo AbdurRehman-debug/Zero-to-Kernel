@@ -163,6 +163,35 @@ also i understood about linear dependence and independence of vectors, which is 
     
 ---
 
+## Day 4 — Sunday, 30 August 2026
+
+
+
+---
+
+### 📖 What I Studied
+
+```
+watched the remnaing part of MIT 18.06sc Elimination With Matrices Lecture 2: Elimination with Matrices 
+```
+
+
+---
+
+### 💡 What I Understood
+
+- from the remaning part of the MIT lecture, I understood that the process of elimination FOR THE ROW SWAPPING STEP THERE IS PERMUTTAION MATRIX that swaps rows that is PA = SWAPPED ROWS OF A
+WHERE P IS PERMUATTAION MATRIX
+
+![alt text](images/PERMUATAION%20MATRIX.png)
+
+and if we want to swap columns inetad of rows we multiply the matrix with a permutation matrix on the right side of the original matrix. This operation rearranges the columns of the original matrix according to the permutation defined by the permutation matrix. The resulting matrix will have its columns in a new order, effectively swapping them as specified by the permutation. that is  AP = SWAPPED COLUMNS OF A
+WHERE P IS PERMUATTAION MATRIX
+![alt text](image.png)
+
+
+---
+
 
 ## Week 1 Summary:
 
