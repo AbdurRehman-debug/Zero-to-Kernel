@@ -163,7 +163,7 @@ What actually runs:
 Python → C++ (LibTorch) → cuBLAS CUDA kernel → GPU assembly (SASS)
 ```
 
-Most engineers only ever see the Python. I am building the bottom layers.
+I am building the bottom layers.
 
 ---
 
@@ -175,7 +175,3 @@ Most engineers only ever see the Python. I am building the bottom layers.
 
 *Started August 22 2026*
 
-
-
-> "The engineers who reach this level are not the smartest.
-> They are the ones who showed up every day for two years."
