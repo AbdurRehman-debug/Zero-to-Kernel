@@ -35,7 +35,7 @@ The endgame: **Kernel Engineer** — someone who writes the low-level math that 
 | Phase | Focus | Duration | Status |
 |-------|-------|----------|--------|
 | **Phase 0** | Math Foundations + C Basics | 3–4 months | 🔄 In Progress |
-| **Phase 1** | Core ML + NumPy from Scratch | 4–5 months | ⏳ Not Started |
+| **Phase 1** | Core ML + NumPy from Scratch | 4–5 months | 🔄 In Progress |
 | **Phase 2** | C Deep Dive — Systems Programming | 6–8 weeks | ⏳ Not Started |
 | **Phase 3** | x86-64 Assembly + CPU ML Kernels | 4–5 months | ⏳ Not Started |
 | **Phase 4** | CUDA C++ + GPU Kernel Engineering | 5–6 months | ⏳ Not Started |
@@ -51,15 +51,12 @@ zero-to-kernel/
 │
 ├── README.md                    
 │
-├── daily-log/                   ← written every single day, no exceptions
-│   ├── README.md                
-│   ├── week-01.md
-│   └── ...
+├
 │
 ├── phase-0-math/
 │   ├── linear-algebra/
-│   │   ├── notes/                ← clean writeup, only once fully understood
-│   │   └── numpy-verification/   ← hand-solved problems verified in NumPy
+│   │   ├── notes/                
+│   │   └── numpy-verification/   
 │   ├── calculus/
 │   │   ├── notes/
 │   │   └── numpy-verification/
@@ -102,7 +99,6 @@ zero-to-kernel/
     └── 07-pytorch-integration/
 ```
 
-**`daily-log/`** — process. Written the same day, every day. What I studied, what I understood, what confused me. Messy and honest is fine here.
 
 **`notes/`** (inside each phase) — reference. Written only once a topic is fully understood. The clean, distilled explanation I'd re-read before building something that depends on it.
 
