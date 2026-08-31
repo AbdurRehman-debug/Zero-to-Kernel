@@ -187,7 +187,39 @@ WHERE P IS PERMUATTAION MATRIX
 
 and if we want to swap columns inetad of rows we multiply the matrix with a permutation matrix on the right side of the original matrix. This operation rearranges the columns of the original matrix according to the permutation defined by the permutation matrix. The resulting matrix will have its columns in a new order, effectively swapping them as specified by the permutation. that is  AP = SWAPPED COLUMNS OF A
 WHERE P IS PERMUATTAION MATRIX
-![alt text](image.png)
+![alt text](images/PERMUATTAION_COLUMN.png)
+
+
+---
+
+## Day 5  — Monday, 31 August 2026
+
+i studied :
+```
+read professor Strangs Book section 1.2 : 
+ Lengths and Dot Products
+```
+
+
+
+---
+
+### 📖 What I Studied:
+***from professor Strangs Book section 1.2 : Lengths and Dot Products i undertood that:***
+
+ 
+  - the dot product of 2 vectors v and w is v.w = v1*w1 + v2*w2 + ... + vn*wn
+  when dot product is zero then the vectors are orthogonal(perpendicular) and if two vectors are perpendicular it measn that we have to do much less computataions. length is given by
+  ![alt text](images/length.png)
+
+  and the unit vector is the vector whose magnitude is 1
+
+ 
+
+
+---
+
+### 💡 What I Understood
 
 
 ---
